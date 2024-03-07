@@ -1,5 +1,7 @@
+
+
 run: 
-# 'npm start'
+'npm start'
 
 open:
 'http://localhost:3000/'
